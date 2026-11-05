@@ -1,0 +1,25 @@
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local datasets
+data/raw/
+data/json/
+*.bak
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.log
