@@ -440,6 +440,7 @@ Các notebook thực hiện những nhiệm vụ khác nhau trong quy trình x�
 
 ---
 
+
 ## Project Deliverables
 
 | Deliverable | Description |
@@ -448,6 +449,8 @@ Các notebook thực hiện những nhiệm vụ khác nhau trong quy trình x�
 | [SQL Scripts](sql/) | Database Validation & Analytical Queries |
 | [Power BI Report](powerbi/CAPSTONE_DA_ADV_04_PowerBI.pbix) | Interactive Business Dashboards |
 | [PowerPoint Report](reports/CAPSTONE_DA_ADV_04_PowerPoint.pptx) | Tổng hợp quá trình và kết quả phân tích |
+| [Technical Documentation](docs/) | Tài liệu kỹ thuật và minh chứng xây dựng cơ sở dữ liệu MongoDB |
+
 
 ---
 
