@@ -12,7 +12,8 @@ Tài liệu trình bày quá trình xây dựng cơ sở dữ liệu MongoDB t�
 - Kiểm tra dữ liệu và tạo indexes.
 - Minh chứng quá trình xây dựng cơ sở dữ liệu phục vụ ETL sang SQL Server.
 
-**Tài liệu:** `1. MINH CHỨNG XÂY DỰNG CƠ SỞ DỮ LIỆU MONGODB.pdf`
+
+**Tài liệu:** [Xem tài liệu xây dựng cơ sở dữ liệu MongoDB](<1. MINH CHỨNG XÂY DỰNG CƠ SỞ DỮ LIỆU MONGODB.pdf>)
 
 ## Notes
 
